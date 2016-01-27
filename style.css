@@ -6507,7 +6507,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #1ABC9C;
+	background-color: #194e70;
 	color: #FFF;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -7314,7 +7314,7 @@ body:not(.device-touch) .button.button-full strong {
 -----------------------------------------------------------------*/
 
 .feature-box.fbox-border .fbox-icon {
-	border: 1px solid #1ABC9C;
+	border: 1px solid #194e70;
 	border-radius: 50%;
 }
 
@@ -7322,7 +7322,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box.fbox-border .fbox-icon img {
 	border: none;
 	background-color: transparent !important;
-	color: #1ABC9C;
+	color: #194e70;
 }
 
 .feature-box.fbox-border .fbox-icon { padding: 0; }
